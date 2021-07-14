@@ -249,7 +249,7 @@ hr {
 	font-size: 16px;
 	transition: .5s;
 	box-shadow: 1px 1px 10px 0px #E02C6D;
-	margin: 0 10px;
+	margin: 10px 10px;
 }
 .social-icons i:hover {
 	background: #E02C6D;
@@ -272,6 +272,9 @@ hr {
 	/*Header*/
 	.header-area .menu, .login-button {
 		display: none;
+	}
+	.header-area .banner-area .left-content h1 {
+		font-size: 40px;
 	}
 	.header-area .banner-area {
 		flex-direction: column;
