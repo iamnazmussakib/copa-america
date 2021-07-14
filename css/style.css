@@ -172,8 +172,10 @@ hr {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	align-items: center;
 	margin-top: 50px;
 	margin-bottom: 80px;
+	border: none;
 }
 .copa-partners .logos .logo {
 	margin: 20px;
